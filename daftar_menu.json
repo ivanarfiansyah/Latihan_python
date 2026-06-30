@@ -1,0 +1,12 @@
+{
+	"daftar_daging": {
+		"1": {"jenis_daging": "ayam", "harga_per_kg": 20000},
+		"2": {"jenis_daging": "sapi", "harga_per_kg": 25000},
+		"3": {"jenis_daging": "kalkun", "harga_per_kg": 32000}
+	},
+	"jasa_potong": {
+		"4": {"jasa_potong": "potong_ayam", "harga": 5000},
+		"5": {"jasa_potong": "potong_sapi", "harga": 10000},
+		"6": {"jasa_potong": "potong_kalkun", "harga": 15000}
+	}
+}
