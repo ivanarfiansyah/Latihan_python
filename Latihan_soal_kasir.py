@@ -1,4 +1,7 @@
 # DAFTAR HARGA DAGING PER KILOGRAM
+import os
+import tkinter as tk
+
 harga_daging = {
     "ayam": 20000,
     "sapi": 25000,
@@ -90,3 +93,4 @@ print(f"Total Diskon  : Rp{total_diskon:,.0f}")
 print(f"Total Bersih  : Rp{total_bersih:,.0f}")
 print("====================================")
 print("Terima kasih sudah berbelanja!")
+
